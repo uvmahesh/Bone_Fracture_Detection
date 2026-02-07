@@ -94,8 +94,3 @@ Fractured / Normal
 
 Prediction confidence score
 
-Installation & Setup (code):-
-
-git clone https://github.com/your-username/bone-fracture-detection.git
-cd bone-fracture-detection
-pip install -r requirements.txt
